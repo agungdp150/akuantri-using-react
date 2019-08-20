@@ -1,0 +1,65 @@
+.container {
+  margin-top: 80px;
+  list-style: none;
+  margin-bottom: 150px;
+}
+
+.container-1 {
+  margin-bottom: 30px;
+  margin-left: 30px;
+}
+
+.container-1 hr {
+  border: 0;
+  height: 2px;
+  background-image: linear-gradient(to right, rgba(26, 174, 9, 0), rgba(26, 174, 9, 0.75), rgba(26, 174, 9, 0));
+  margin: 0px 1100px 10px 10px;
+}
+
+.container-1 h2 {
+  margin-bottom: 10px;
+  font-size: 30px;
+}
+
+.container-1 p {
+  font-size: 20px;
+}
+
+.container-2 {
+  /* background-color: blueviolet; */
+  width: 45%;
+}
+
+.feature-left .icon {
+  float: left;
+}
+
+.icon {
+  color: #54A157;
+  float: left;
+  margin-right: 30px;
+  margin-left: 30px;
+  font-size: 35px;
+  display: absolute;
+}
+
+.feature-copy {
+  margin-left: 50px;
+  line-height: 40px;
+  display: block;
+}
+
+.feature-copy p {
+  text-align: left;
+  display: block;
+  width: 600px;
+  margin-left: 45px;
+}
+
+.image {
+  float: right;
+  margin-top: -850px;
+  width: 50%;
+  height: 50%;
+  /* background-color: blue; */
+}

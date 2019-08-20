@@ -1,0 +1,58 @@
+.background {
+  background-image: url("https://www.akuantri.com/images/bg-akuantri-home1.jpg");
+  /* height: 623px; */
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  z-index: -1;
+}
+
+.color-1 {
+  position: relative;
+  width: 100%;
+  padding: 20px 0px 195px 0px;
+  background: rgba(0, 0, 0, 0.2)
+      /* z-index: 1; */
+}
+
+.text-bcg h2 {
+  text-align: center;
+  color: #ffffff;
+  font-size: 59px;
+  padding: 140px 0px 10px 0px;
+  /* z-index: 2; */
+}
+
+.text-bcg p {
+  text-align: center;
+  color: #ffffff;
+  margin: 0px 350px 30px 350px;
+  line-height: 25px;
+  font-size: 18px;
+}
+
+.green {
+  display: inline-flex;
+  justify-items: center;
+  justify-content: center;
+  text-decoration: none;
+  margin-left: 480px;
+}
+
+.green a {
+  text-decoration: none;
+}
+
+.pelajari {
+  color: #54A157;
+  background-color: #ffffff;
+  /* justify-content: center; */
+  align-items: center;
+  padding: 0px 40px 0px 40px;
+  margin: 0px 10px 0px 20px;
+  border-radius: 10px;
+}
+
+.pelajari i {
+  margin-left: 5px;
+}

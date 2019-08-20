@@ -1,0 +1,67 @@
+.text-head {
+  text-align: center;
+  justify-content: center;
+  line-height: 30px;
+}
+
+.text-head hr {
+  border: 0;
+  height: 2px;
+  background-image: linear-gradient(to right, rgba(26, 174, 9, 0), rgba(26, 174, 9, 0.75), rgba(26, 174, 9, 0));
+  margin: 10px 450px;
+}
+
+.box2 {
+  background-color: #ffffff;
+  padding: 50px 0px 80px 0px;
+}
+
+.testimonial-cust {
+  overflow: hidden;
+  position: relative;
+}
+
+.testimonial-cust .script-testimonial img {
+  width: 30%;
+  border-radius: 10px;
+  position: relative;
+  margin: 5px;
+}
+
+.script-testimonial {
+  display: flex;
+  width: 100%;
+  height: 100%;
+}
+
+#prevBtn {
+  position: absolute;
+  top: 50%;
+  z-index: 10;
+  left: 0.9%;
+  font-size: 18px;
+  color: #00AA13;
+  ;
+  opacity: 0.9;
+  cursor: pointer;
+  background-color: aliceblue;
+  border-radius: 40px;
+  padding: 10px;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, .5);
+}
+
+#nextBtn {
+  position: absolute;
+  top: 50%;
+  z-index: 10;
+  right: 0.9%;
+  font-size: 18px;
+  color: #00AA13;
+  ;
+  /* opacity: 0.9; */
+  cursor: pointer;
+  background-color: aliceblue;
+  border-radius: 40px;
+  padding: 10px;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, .5);
+}
